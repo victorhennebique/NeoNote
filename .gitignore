@@ -142,3 +142,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 ### Personal Patch ###
+src\main\java\com\victorhennebique\neonote\domain
+src\main\java\com\victorhennebique\neonote\infrastructure
